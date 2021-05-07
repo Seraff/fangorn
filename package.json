@@ -85,7 +85,7 @@
     "path-data-polyfill": "^1.0.3",
     "save-svg-as-png": "^1.4.17",
     "split.js": "^1.5.11",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "ve-range-utils": "^2.5.8",
     "ve-sequence-utils": "^3.3.54"
   }
